@@ -1,2 +1,1 @@
 # Obscura
-The Best Script.
